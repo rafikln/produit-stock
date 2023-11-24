@@ -1,0 +1,49 @@
+
+
+.continer
+{
+    width: 100%;
+    padding: 30px 60px 0 50px;
+    background-color: rgb(4, 1, 21);
+    height: 100vh;
+}
+.color
+{
+    background-color: red;
+}
+thead .color th
+{
+background-color:#FF9900;
+}
+.img
+{
+    margin-top: 10px;
+}
+.btn
+{
+   height: 30px;
+   padding: 0 10px;
+   margin-left: 10px;
+}
+.td
+{
+    width: 180px;
+}
+.th
+{
+    text-align: center;
+}
+.a
+{
+    background-color: #FF9900;
+    color: rgb(4, 1, 21);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.a:active
+{
+    background-color: #ff9900ae;
+}
